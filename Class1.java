@@ -93,3 +93,11 @@ public class HelloWorld{
         arr.add(4);
         arr.add(5);
 
+
+
+        for (int i = 4; i >= 0; i--) {
+            arr.add(i);
+            System.out.println(i);
+        }
+    }
+}
