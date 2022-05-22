@@ -29,3 +29,15 @@ public class Learning {
         // .add() .get()
 
         // for ({start_value}; {conditions}; {increment})
+
+        for (int i = 0; i < arr.size(); i++) {
+            System.out.println(arr.get(i));
+        }
+
+        if (false) { // nested if
+
+            if (false) {
+
+            } else {
+
+            }
