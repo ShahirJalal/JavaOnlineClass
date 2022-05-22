@@ -41,3 +41,17 @@ public class Learning {
             } else {
 
             }
+       } else if (false) {
+        } else if (false) {
+        } else if (false) {
+        } else if (false) {
+        } else if (false) {
+        } else if (false) {
+        } else if (false) {
+
+        } else {
+
+        }
+
+
+        if (false) { // nested if -> elakkan: Guard clauses
