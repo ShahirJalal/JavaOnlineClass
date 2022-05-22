@@ -55,3 +55,27 @@ public class Learning {
 
 
         if (false) { // nested if -> elakkan: Guard clauses
+
+            if (false) {
+
+                if (false) {
+
+                }
+
+            }
+
+        }
+
+        // Switch
+        int x = 1;
+        switch (x) {
+            case 1: System.out.println(); break;
+            case 2: break;
+            default: break;
+        }
+
+
+
+    }
+
+}
