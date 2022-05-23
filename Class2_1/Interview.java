@@ -21,4 +21,12 @@ public class Interview {
         }
     }
 
+    public void setAllApplicants(List<Applicant> applicants) {
+        allApplicants = applicants;
+    }
+
+    public List<Applicant> getPassedApplicants() {
+        return passedApplicants;
+    }
+
 }
