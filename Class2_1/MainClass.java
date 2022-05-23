@@ -37,6 +37,14 @@ public class MainClass {
         app6.setAge(20);
         app6.setScore(95);
 
+        List<Applicant> allApplicants = new ArrayList<>();
+        allApplicants.add(app1);
+        allApplicants.add(app2);
+        allApplicants.add(app3);
+        allApplicants.add(app4);
+        allApplicants.add(app5);
+        allApplicants.add(app6);
+
     }
 
     /**
