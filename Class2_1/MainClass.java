@@ -45,6 +45,19 @@ public class MainClass {
         allApplicants.add(app5);
         allApplicants.add(app6);
 
+        Interview interview = new Interview();
+        interview.setAllApplicants(allApplicants);
+        interview.process();
+
+        List<Applicant> passedApplicants = interview.getPassedApplicants();
+
+        for (int i = 0; i < passedApplicants.size(); i++) {
+            Applicant applicant = passedApplicants.get(i);
+            System.out.println("Name: " + applicant.getName() + 
+                            " - Age: " + applicant.getAge() + 
+                            " - Score: " + applicant.getScore());
+        }
+
     }
 
     /**
