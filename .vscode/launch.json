@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test3",
+            "request": "launch",
+            "mainClass": "Class2_2.Test3",
+            "projectName": "JavaOnlineClass_3f2a0f73"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test2",
+            "request": "launch",
+            "mainClass": "Class2_2.Test2",
+            "projectName": "JavaOnlineClass_3f2a0f73"
+        },
+        {
+            "type": "java",
             "name": "Launch Test1",
             "request": "launch",
             "mainClass": "Class2_2.Test1",
