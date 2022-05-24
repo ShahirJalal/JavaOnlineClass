@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "Class2_2.Test1",
+            "projectName": "JavaOnlineClass_3f2a0f73"
+        },
+        {
+            "type": "java",
             "name": "Launch MainClass",
             "request": "launch",
             "mainClass": "Class2_1.MainClass",
