@@ -5,9 +5,6 @@ import java.util.List;
 
 public class Main {
 
-    String userNameInput = "Shahir";
-    String userPasswordInput = "88888";
-
     public static void main(String[] args) {
 
         User user1 = new User();
