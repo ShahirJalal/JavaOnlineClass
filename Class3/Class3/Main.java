@@ -4,8 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
+
+    String userNameInput = "Shahir";
+
+
     public static void main(String[] args) {
-        
+
         User user1 = new User();
         user1.setUserName("Rasyid");
         user1.setUserPassword("54321");
