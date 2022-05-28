@@ -44,3 +44,7 @@ public class User {
         // Kamarul, 12345
         // Aiman,   44323
         // Syamsul, 99999
+
+        public static void main(String[] args) {
+                System.out.println("Hello");
+        }
